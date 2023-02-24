@@ -1,0 +1,15 @@
+C:\Users\Дом\Desktop\seminar1702\obj\Debug\net6.0\seminar1702.csproj.AssemblyReference.cache
+C:\Users\Дом\Desktop\seminar1702\obj\Debug\net6.0\seminar1702.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дом\Desktop\seminar1702\obj\Debug\net6.0\seminar1702.AssemblyInfoInputs.cache
+C:\Users\Дом\Desktop\seminar1702\obj\Debug\net6.0\seminar1702.AssemblyInfo.cs
+C:\Users\Дом\Desktop\seminar1702\obj\Debug\net6.0\seminar1702.csproj.CoreCompileInputs.cache
+C:\Users\Дом\Desktop\seminar1702\bin\Debug\net6.0\seminar1702.exe
+C:\Users\Дом\Desktop\seminar1702\bin\Debug\net6.0\seminar1702.deps.json
+C:\Users\Дом\Desktop\seminar1702\bin\Debug\net6.0\seminar1702.runtimeconfig.json
+C:\Users\Дом\Desktop\seminar1702\bin\Debug\net6.0\seminar1702.dll
+C:\Users\Дом\Desktop\seminar1702\bin\Debug\net6.0\seminar1702.pdb
+C:\Users\Дом\Desktop\seminar1702\obj\Debug\net6.0\seminar1702.dll
+C:\Users\Дом\Desktop\seminar1702\obj\Debug\net6.0\refint\seminar1702.dll
+C:\Users\Дом\Desktop\seminar1702\obj\Debug\net6.0\seminar1702.pdb
+C:\Users\Дом\Desktop\seminar1702\obj\Debug\net6.0\seminar1702.genruntimeconfig.cache
+C:\Users\Дом\Desktop\seminar1702\obj\Debug\net6.0\ref\seminar1702.dll
